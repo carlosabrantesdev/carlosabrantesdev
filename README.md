@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-eeff01?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/carlosabrantes_/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-eeff01?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-duarte-abrantes-1b726626a/)
-[![Email](https://img.shields.io/badge/Gmail-eeff01?style=for-the-badge&logo=gmail&logoColor=black)](mailto:carlosduartee128@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-7F00FF?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/carlosabrantes_/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/carlos-henrique-duarte-abrantes-1b726626a/)
+[![Email](https://img.shields.io/badge/Gmail-7F00FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:carlosduartee128@gmail.com)
 
 <div align="center">
 <h1> Tecnologias e Ferramentas </h1><br>
