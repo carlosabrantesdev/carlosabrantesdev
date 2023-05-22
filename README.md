@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-eeff01?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/carlosabrantes_/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-eeff01?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/carlos-henrique-duarte-abrantes-1b726626a/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-eeff01?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-duarte-abrantes-1b726626a/)
 [![Email](https://img.shields.io/badge/Gmail-eeff01?style=for-the-badge&logo=gmail&logoColor=black)](mailto:carlosduartee128@gmail.com)
 
 <div align="center">
@@ -14,4 +14,4 @@
 <img align="align" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-eeff01?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="align" alt="VSCODE" src="https://img.shields.io/badge/VSCode-eeff01?style=for-the-badge&logo=visual%20studio%20code&logoColor=black"/>  
   
-<br>![CarlosH6 GitHub stats](https://github-readme-stats.vercel.app/api?username=alexb7z&show_icons=true&theme=dark)<br>
+<br>![CarlosH6 GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosH6&show_icons=true&theme=white)
