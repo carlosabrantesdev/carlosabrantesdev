@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6E6FA&size=40&center=true&vCenter=true&width=1000&lines=Hello+there!+;I'm+an+I.T.+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6E6FA&size=40&center=true&vCenter=true&width=1000&lines=Hello+there!+(^_^)／+;I'm+an+I.T.+Student)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -11,8 +11,10 @@
 ### Languages and tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=carlosabrantesdev&hide=jupyter%20notebook,tex" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&username=carlosabrantesdev&hide=jupyter%20notebook,tex" height="170" alt="languages graph"  />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
