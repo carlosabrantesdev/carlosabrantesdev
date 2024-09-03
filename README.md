@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6E6FA&size=40&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Carlos+Abrantes;I.T.+Student+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6E6FA&size=40&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Carlos+Abrantes;I.T.+Student+(⌐□_□))](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -15,4 +15,4 @@
 <img alt="React" src="https://img.shields.io/badge/React-E6E6FA?style=for-the-badge&logo=react&logoColor=black"/>
 
   
-<br>![carlosabrantesdev GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosH6&show_icons=true&theme=white)
+<br>![carlosabrantesdev_GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosabrantesdev&show_icons=true&theme=white)
