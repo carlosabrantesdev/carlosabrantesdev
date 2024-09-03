@@ -2,8 +2,6 @@
 
 <div align="center">
 
-##### _"Connectivity is a human right."_ -Mark Zuckerberg
-
 ### Contact me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E6E6FA?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/carlosabrantes_/)
