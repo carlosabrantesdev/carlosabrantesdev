@@ -2,6 +2,8 @@
 
 <div align="center">
 
+##### _"Connectivity is a human right."_ -Mark Zuckerberg
+
 ### Contact me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E6E6FA?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/carlosabrantes_/)
@@ -19,6 +21,9 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo" />
 </div>
 
 
