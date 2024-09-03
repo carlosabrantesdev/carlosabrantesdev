@@ -1,13 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6E6FA&size=40&center=true&vCenter=true&width=1000&lines=Hello+there!+(^_^)／+;I'm+an+I.T.+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=40&center=true&vCenter=true&width=1000&lines=Hello+there!+(^_^)／+;I'm+an+I.T.+Student)](https://git.io/typing-svg)
 
 <div align="center">
 
-### Contact me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E6E6FA?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/carlosabrantes_/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-E6E6FA?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/carlos-henrique-duarte-abrantes-1b726626a/)
-[![Email](https://img.shields.io/badge/Gmail-E6E6FA?style=for-the-badge&logo=gmail&logoColor=black)](mailto:carlosduartee128@gmail.com)
-  
 ### Languages and tools
 
 <div align="center">
@@ -44,3 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" width="42" alt="embeddedc logo"  />
 </div>
 -->
+
+### Contact me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/carlos-henrique-duarte-abrantes-1b726626a/)
+[![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlosduartee128@gmail.com)
