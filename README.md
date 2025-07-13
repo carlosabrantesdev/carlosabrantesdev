@@ -41,5 +41,5 @@
 
 ### Contact me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-henrique-duarte-abrantes-1b726626a/)](https://www.linkedin.com/in/carlos-henrique-duarte-abrantes-1b726626a/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-duarte-abrantes-1b726626a/)
 [![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlosduartee128@gmail.com)
