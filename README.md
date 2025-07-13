@@ -42,4 +42,4 @@
 ### Contact me
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/carlos-henrique-duarte-abrantes-1b726626a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carlosduartee128@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:carlosduartee128@gmail.com)
