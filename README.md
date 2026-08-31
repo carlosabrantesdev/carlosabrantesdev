@@ -1,6 +1,6 @@
 <h2> Hi, I'm Carlos Henrique! <img src="" width="50"></h2>
-<img align='right' src="https://i.pinimg.com/originals/82/2a/ba/822aba46a059fddb0f1b42d99f77cfd8.gif" width="230">
-<p><em>I.T student at <a href="https://ufersa.edu.br/">UFERSA</a><img src="https://assecom.ufersa.edu.br/wp-content/uploads/sites/24/2014/09/PNG-bras%C3%A3o-Ufersa.png" width="30"> 
+<img align='right' src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="230">
+<p>I.T student at <a href="https://ufersa.edu.br/">UFERSA</a><img src="https://assecom.ufersa.edu.br/wp-content/uploads/sites/24/2014/09/PNG-bras%C3%A3o-Ufersa.png" width="30"> 
 </em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosabrantesdev/)
