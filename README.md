@@ -1,7 +1,6 @@
 <h2> Hey, I'm Carlos Abrantes <img src="" width="50"></h2>
 <img align='right' src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="230">
-<p>I.T Student at <a href="https://github.com/classroom-ufersa">UFERSA</a>;
-<p>Frontend Developer at <a href="https://www.linkedin.com/company/118954492">PlaceDev</a>;
+<p>I.T Student at <a href="https://github.com/classroom-ufersa">UFERSA</a>;<br><p>Frontend Developer at <a href="https://www.linkedin.com/company/118954492">PlaceDev</a>;
   
 </em></p>
 
