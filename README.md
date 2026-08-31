@@ -15,9 +15,7 @@ const carlos = {
   tools: ["Next.js", "React", "Tailwind CSS", "Docker", "AWS"],
   architecture: ["SaaS platforms"],
   projects: {
-                        startup: "Building scheduling and ordering SaaS platforms at PlaceDev",
-                        research: "Local LLM Viability Testing & Telemetry",
-                        fun: "Creating Discord bots on Discloud & 3D Web UI experiments"
+                       
                       },
   hobbies: ""
 }
