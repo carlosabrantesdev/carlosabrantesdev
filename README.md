@@ -1,6 +1,6 @@
-<h2> Hey, I'm Carlos Abrantes <img src="https://emojis.slackmojis.com/emojis/images/1643514066/227/powerup.gif?1643514066" width="50"></h2>
+<h2> Hey, I'm Carlos Abrantes <img src="" width="50"></h2>
 <img align='right' src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="230">
-<p>I.T student at <a href="https://ufersa.edu.br/">UFERSA</a><img src="https://assecom.ufersa.edu.br/wp-content/uploads/sites/24/2014/09/PNG-bras%C3%A3o-Ufersa.png" width="30"> 
+<p>I.T student at <a href="https://github.com/classroom-ufersa">UFERSA</a>
 </em></p>
 
 <p align="center">
