@@ -1,6 +1,6 @@
 <h2> Hi, I'm Carlos Henrique! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>I.T student at <a href="https://ufersa.edu.br/">UFERSA</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>I.T student at <a href="https://ufersa.edu.br/">UFERSA</a><img src="" width="30"> 
 </em></p>
 
 [![Linkedin: carlos](https://img.shields.io/badge/-carloshenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
