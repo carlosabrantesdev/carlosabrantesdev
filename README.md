@@ -1,46 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=40&center=true&vCenter=true&width=1000&lines=Carlos+Abrantes;I'm+an+I.T.+Student)](https://git.io/typing-svg)
+<h2> Hi, I'm Carlos Henrique! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>I.T student at <a href="https://ufersa.edu.br/">UFERSA</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<div align="center">
-
-### Languages and tools
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&username=carlosabrantesdev&hide=jupyter%20notebook,tex" height="170" alt="languages graph"  />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo" />
-</div>
+[![Linkedin: carlos](https://img.shields.io/badge/-carloshenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+[![GitHub Carlos](https://img.shields.io/github/followers/carlos?label=follow&style=social)](https://github.com/)
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosabrantesdev&layout=compact&hide=javascript,html,jupyter%20notebook,processing)](https://github.com/carlosabrantesdev/github-readme-stats) -->
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosabrantesdev&layout=compact,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/carlosabrantesdev) -->
-
-
-<!--
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="42" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="tensorflow logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" width="42" alt="embeddedc logo"  />
-</div>
--->
-
-### Contact me
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/carlos-henrique-duarte-abrantes-1b726626a/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:carlosduartee128@gmail.com) 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/295720465387749376)
+```javascript
+const carlos = {
+  pronouns: "he" | "him",
+  code: ["TypeScript", "JavaScript", "Python", "HTML", "CSS"],
+  tools: ["Next.js", "React", "Tailwind CSS", "Docker", "AWS"],
+  architecture: ["SaaS platforms"],
+  projects: {
+                        startup: "Building scheduling and ordering SaaS platforms at PlaceDev",
+                        research: "Local LLM Viability Testing & Telemetry",
+                        fun: "Creating Discord bots on Discloud & 3D Web UI experiments"
+                      },
+  hobbies: "Listening to Persona 3 OSTs and Stray Kids while playing LoL or Fortnite"
+}
