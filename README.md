@@ -1,4 +1,4 @@
-<h2> Hey, I'm Carlos Abrantes <img src="" width="50"></h2>
+<h2> Hey, I'm Carlos Abrantes <img src="https://emojis.slackmojis.com/emojis/images/1643514066/227/powerup.gif?1643514066" width="20"></h2>
 <img align='right' src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="230">
 <p>
   I.T. Student at <a href="https://github.com/classroom-ufersa">UFERSA</a>;<br>
@@ -17,7 +17,7 @@
 </p>
 
 ```javascript
-const carlos = {
+const carlos_abrantes = {
   code: ["TypeScript", "JavaScript", "Python", "HTML", "CSS"],
   tools: ["Next.js", "React", "Tailwind CSS", "Docker", "AWS"],
   architecture: ["SaaS platforms"],
