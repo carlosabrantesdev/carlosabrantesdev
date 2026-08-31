@@ -1,13 +1,12 @@
-<h2> Hi, I'm Carlos Henrique! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Carlos Henrique! <img src="" width="50"></h2>
 <img align='right' src="" width="230">
-<p><em>I.T student at <a href="https://ufersa.edu.br/">UFERSA</a><img src="" width="30"> 
+<p><em>I.T student at <a href="https://ufersa.edu.br/">UFERSA</a><img src="https://assecom.ufersa.edu.br/wp-content/uploads/sites/24/2014/09/PNG-bras%C3%A3o-Ufersa.png" width="30"> 
 </em></p>
 
-[![Linkedin: carlos](https://img.shields.io/badge/-carloshenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
-[![GitHub Carlos](https://img.shields.io/github/followers/carlos?label=follow&style=social)](https://github.com/)
-
-
- A little more about me...  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosabrantesdev/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosabrantesdev/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlosabrantesdev)
+[![GitLab](https://img.shields.io/badge/GitLab-%23330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/carlosabrantesdev)
 
 ```javascript
 const carlos = {
@@ -20,5 +19,5 @@ const carlos = {
                         research: "Local LLM Viability Testing & Telemetry",
                         fun: "Creating Discord bots on Discloud & 3D Web UI experiments"
                       },
-  hobbies: "Listening to Persona 3 OSTs and Stray Kids while playing LoL or Fortnite"
+  hobbies: ""
 }
