@@ -1,5 +1,5 @@
 <h2> Hi, I'm Carlos Henrique! <img src="" width="50"></h2>
-<img align='right' src="" width="230">
+<img align='right' src="https://giphy.com/gifs/coding-hack-hacking-1iNIkQBAwEkUuTpikf" width="230">
 <p><em>I.T student at <a href="https://ufersa.edu.br/">UFERSA</a><img src="https://assecom.ufersa.edu.br/wp-content/uploads/sites/24/2014/09/PNG-bras%C3%A3o-Ufersa.png" width="30"> 
 </em></p>
 
