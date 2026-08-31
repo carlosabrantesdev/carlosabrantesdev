@@ -14,12 +14,8 @@
 
 ```javascript
 const carlos = {
-  pronouns: "he" | "him",
   code: ["TypeScript", "JavaScript", "Python", "HTML", "CSS"],
   tools: ["Next.js", "React", "Tailwind CSS", "Docker", "AWS"],
   architecture: ["SaaS platforms"],
-  projects: {
-                       
-                      },
-  hobbies: ""
+  hobbies: ["Playing"]
 }
